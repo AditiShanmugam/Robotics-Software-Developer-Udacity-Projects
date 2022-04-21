@@ -1,3 +1,11 @@
+/*
+    Author: Aditi Shanmugam 
+    Date: 20-04-2022 | 10:24 PM
+    About: C++ plugin file for Project1 
+    Inputs: None 
+    Outputs: Greeting Message - "Welcome to Aditi's World!\n"
+*/
+
 #include <gazebo/gazebo.hh>
 
 namespace gazebo 
